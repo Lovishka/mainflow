@@ -3,7 +3,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 #LOADING THE DATASET
-data = pd.read_csv(r'C:\Users\Kolluri Sruthi\OneDrive\tips.csv')
+data = pd.read_csv(r'"C:\Users\Lovishka\OneDrive\Desktop\tips.csv"')
 #ANALYSING THE SAMPLE DATA
 data.head(10)
 total_bill	tip	sex	smoker	day	time	size
